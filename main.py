@@ -54,7 +54,7 @@ def main():
             f"*（전체공지_매주1회）*\n\n"
             f"\n"
             f"\n"
-            f"*첨부:one: - <https://50072f98-e1d6-4b35-b1e5-5564ad1fcebf.usrfiles.com/ugd/50072f_f8a0fa1203f043d59b9db6e91a1b6624.xlsx|셔틀 노선도>*\n"
+            f"*첨부:one: - <https://50072f98-e1d6-4b35-b1e5-5564ad1fcebf.usrfiles.com/ugd/50072f_45d8de7b01ba40be8e30c12bcdbaf4ef.xlsx|셔틀 노선도>*\n"
             f"*첨부:two: - <https://50072f98-e1d6-4b35-b1e5-5564ad1fcebf.usrfiles.com/ugd/50072f_c0379d340a5d43b3831c4306dca6adc0.pptx|셔틀 노선 및 경유지 상세 이미지 포함>*\n"
             f"*첨부:three: - <https://50072f98-e1d6-4b35-b1e5-5564ad1fcebf.usrfiles.com/ugd/50072f_4138997ae0db4d3fa5789cab2c718ded.pdf|셔틀 승,하차 장소>*\n"
             f"*첨부:four: - <https://50072f98-e1d6-4b35-b1e5-5564ad1fcebf.usrfiles.com/ugd/50072f_b72245b692984e838e89f72711e2aea8.pdf|셔틀 어플 사용 안내>*\n"
